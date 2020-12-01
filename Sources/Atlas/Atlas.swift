@@ -1,6 +1,5 @@
-public struct Atlas {
+public class Atlas {
     public func testLog() {
-        let text = "Hello, World!"
-        print("\(text)")
+        print("Hello, World!")
     }
 }
