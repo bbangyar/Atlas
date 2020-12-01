@@ -1,6 +1,6 @@
 public struct Atlas {
-    var text = "Hello, World!"
     public func testLog() {
+        let text = "Hello, World!"
         print("\(text)")
     }
 }
